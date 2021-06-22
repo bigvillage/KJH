@@ -3,4 +3,8 @@
 1-1. MHTP-485S RS485통신
 -------------
 ###### MHTP-485S 온습도프로브는 RS485통신을 사용하여 여러 지점의 온도 및 습도를 동시에 감시할 수 있습니다.
-![d84c3e9c850ceed2cc656bc4e099e7a3e4b48be0](https://user-images.githubusercontent.com/86224836/122852677-fb79bf00-d34b-11eb-9848-1241a4068fcb.png)
+1-2. MHTP-485S Manual
+-------------
+![SimpleTH_Probe_1](https://user-images.githubusercontent.com/86224836/122852917-5b706580-d34c-11eb-9ca5-96f1ab5b7323.png)
+![SimpleTH_Probe_2](https://user-images.githubusercontent.com/86224836/122852921-5ca19280-d34c-11eb-8653-5028a0047946.png)
+
