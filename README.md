@@ -5,7 +5,9 @@
 ###### SimpleTH_Probe485 온습도프로브는 RS485통신을 사용하여 여러 지점의 온도 및 습도를 동시에 감시할 수 있습니다.
 1-2. SimpleTH_Probe485 배선도
 -------------
-!<img src="[제목을-입력해주세요 -003](https://user-images.githubusercontent.com/86224836/123369466-c1f9bb80-d5b8-11eb-901f-08205872a069.png)" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="[제목을-입력해주세요 -003](https://user-images.githubusercontent.com/86224836/123580478-e356e380-d814-11eb-9d55-5905a4ddc98c.png)
+" width="40%" height="30%" title="px(픽셀) 크기 설정"
+
   
 1-3. SimpleTH_Probe485 Manual
 -------------
